@@ -1,2 +1,4 @@
-使用SpringMVC spring Mybatis 搭建的框架 
-日志Log4J
+ssm2016使用SpringMVC spring Mybatis 搭建的框架 日志Log4J
+UserDAO
+UserService
+UserWeb  是使用maven搭建的 MVC 三层分离 的DEMO
